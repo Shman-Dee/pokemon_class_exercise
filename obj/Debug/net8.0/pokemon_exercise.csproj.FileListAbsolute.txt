@@ -1,0 +1,14 @@
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.AssemblyInfoInputs.cache
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.AssemblyInfo.cs
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.csproj.CoreCompileInputs.cache
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/bin/Debug/net8.0/pokemon_exercise
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/bin/Debug/net8.0/pokemon_exercise.deps.json
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/bin/Debug/net8.0/pokemon_exercise.runtimeconfig.json
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/bin/Debug/net8.0/pokemon_exercise.dll
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/bin/Debug/net8.0/pokemon_exercise.pdb
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.dll
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/refint/pokemon_exercise.dll
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.pdb
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/pokemon_exercise.genruntimeconfig.cache
+/Users/andrew.mcinally/c-sharp/pokemon_exercise/obj/Debug/net8.0/ref/pokemon_exercise.dll
